@@ -1,0 +1,39 @@
+# ---- macOS ----
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# ---- Linux ----
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints
+
+# ---- 编辑器 ----
+.vscode/
+.idea/
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+Session.vim
+tags
+
+# ---- 本项目 ----
+.my.cnf
+*.local.sql
+/data/*.tmp
