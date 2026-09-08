@@ -142,3 +142,6 @@ migrations/   建库建表，按编号顺序执行（编号补零到三位，保
 seed/         基础数据（机器人型号），幂等
 scripts/      setup / dump / restore
 data/         dump.sql，数据的唯一 git 载体
+
+
+注意：本项目有AI辅助，个人学习用，附近有AI出没，警惕AI的表达（懒得修改了）。
